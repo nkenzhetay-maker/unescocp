@@ -34,8 +34,7 @@ Submissions appear in the Netlify dashboard under Forms; set an email notificati
 ## Images
 
 - `images/stock/` are Getty Images photos from GoDaddy's Airo library (the page hero banners and the
-  home Summer Program photo). That licence covers GoDaddy-hosted sites; replace them with the
-  Center's own photos before the domain points to Netlify.
+  home Summer Program photo), kept as on the source at the owner's request (2 Nov 2026).
 - On the source site these files returned 404 and were recovered from https://ucp-usa.org:
   Guy Djoken's portrait, the three partner-university seals, and the three event flyers
   (African Women's Day 2026, West African Spring Conference 2025, Model UN & Debate 2025).
