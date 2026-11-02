@@ -121,22 +121,3 @@
     cursor: pointer;
   }
 }
-
-/* Google Translate: keep its toolbar, tooltips, loading spinner and hover highlight out of the page */
-iframe.skiptranslate,
-.goog-te-banner-frame,
-#goog-gt-tt,
-.goog-te-balloon-frame,
-.goog-tooltip,
-.goog-te-spinner-pos,
-.VIpgJd-ZVi9od-aZ2wEe-wOHMyf {
-  display: none !important;
-}
-body {
-  top: 0 !important;
-  position: static !important;
-}
-.goog-text-highlight {
-  background: none !important;
-  box-shadow: none !important;
-}

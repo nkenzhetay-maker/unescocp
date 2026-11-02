@@ -6,7 +6,6 @@ import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { DonateButton } from "./donate-button";
-import { LanguageSwitcher } from "./language-switcher";
 
 export const NAV_ITEMS = [
   { href: "/", label: "Home" },
@@ -27,9 +26,8 @@ export function SiteHeader() {
 
   return (
     <header className="sticky top-0 z-50 bg-white border-b border-[#767676]">
-      <div className="bg-[#3b355f] text-white text-xs py-1 px-4 flex items-center justify-between gap-4">
-        <LanguageSwitcher />
-        <span className="hidden md:inline">{"Flagship Member of the U.S. Federation of UNESCO Clubs, Centers & Associations"}</span>
+      <div className="bg-[#3b355f] text-white text-xs py-1 px-4 text-right hidden md:block">
+        {"Flagship Member of the U.S. Federation of UNESCO Clubs, Centers & Associations"}
       </div>
       <div className="container mx-auto px-4">
         <div className="flex items-center justify-between py-5 gap-4">

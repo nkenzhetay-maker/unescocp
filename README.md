@@ -26,13 +26,6 @@ npm run check    # lint + typecheck + production build (static export in out/)
 Routes: `/`, `/about`, `/about-ucp`, `/leadership`, `/programs`, `/summer-program`,
 `/publishing-house`, `/regional-coordinators`, `/news`, `/resources`, `/join-us`, `/contact`.
 
-## Languages
-
-The content is English only. `LanguageSwitcher` (top bar) reads the visitor's device language and,
-when it is not English, sets the `googtrans` cookie and loads Google Translate, so the page is shown
-machine-translated. Choosing "English (original)" clears the cookie; the choice is kept in
-`localStorage` (`ucp-lang`).
-
 ## Forms
 
 `/contact` (form `contact`) and `/join-us` (form `membership-application`) are Netlify Forms.
