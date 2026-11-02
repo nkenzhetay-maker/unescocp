@@ -5,15 +5,16 @@ import { useEffect, useState } from "react";
 import { ArrowRight, ChevronLeft, ChevronRight } from "lucide-react";
 import { cn } from "@/lib/utils";
 
-type Slide = { title: string; text: string; image: string | null };
+// focus: object-position class, so the flyer's own lettering stays clear of the caption
+type Slide = { title: string; text: string; image: string; focus?: string };
 
-// image: null where the source site's photo is missing (404); the slide keeps
-// its height on the brand ink colour until the original photo is supplied.
+// The 2025 flyers 404 on the source; these copies come from ucp-usa.org.
 const SLIDES: Slide[] = [
   {
     title: "UCP West African Spring Conference 2025",
     text: "World Heritage Educational Tour, April 20–28, MJ Grand Hotel, Accra, Ghana. All ages welcome.",
-    image: null,
+    image: "/sites/unescocp/images/west-african-spring-conference-2025.jpg",
+    focus: "object-top",
   },
   {
     title: "African Women's Day 2026",
@@ -23,7 +24,7 @@ const SLIDES: Slide[] = [
   {
     title: "Model UN & Debate Youth Conference",
     text: "UCP West African Spring Conference: Model United Nations and Debate, April 24–28, 2025, DPS International Ghana. Youths ages 14–19.",
-    image: null,
+    image: "/sites/unescocp/images/model-un-debate-2025.jpg",
   },
 ];
 
@@ -43,11 +44,12 @@ export function ProgramCarousel() {
       <div className="flex transition-transform duration-500 ease-in-out" style={{ transform: `translateX(-${index * 100}%)` }}>
         {SLIDES.map((slide, i) => (
           <div key={slide.title} className="min-w-full relative" aria-hidden={i !== index}>
-            {slide.image ? (
-              <img alt={slide.title} src={slide.image} className="w-full h-64 md:h-96 object-cover" loading={i === 0 ? "eager" : "lazy"} />
-            ) : (
-              <div className="w-full h-64 md:h-96 bg-[#3b355f]" role="img" aria-label={slide.title} />
-            )}
+            <img
+              alt={slide.title}
+              src={slide.image}
+              className={cn("w-full h-64 md:h-96 object-cover", slide.focus)}
+              loading={i === 0 ? "eager" : "lazy"}
+            />
             <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent" />
             <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
               <h3 className="text-xl md:text-2xl font-bold mb-2" style={{ fontFamily: "var(--font-heading)" }}>

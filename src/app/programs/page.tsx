@@ -77,7 +77,7 @@ export default function ProgramsPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             <article className="bg-white rounded-lg shadow-md border border-[#d0d0d0] overflow-hidden hover:shadow-lg transition-shadow">
               <div className="relative">
-                <div className="w-full h-52 bg-[#3b355f]" role="img" aria-label="UCP West African Spring Conference 2025" />
+                <img alt="UCP West African Spring Conference 2025" src="/sites/unescocp/images/west-african-spring-conference-2025.jpg" className="w-full h-52 object-cover" loading="lazy" />
                 <div className="absolute top-4 left-4 text-white text-xs font-bold uppercase tracking-widest px-3 py-1 rounded" style={{ background: "rgb(59, 53, 95)" }}>
                   Featured
                 </div>
@@ -157,7 +157,7 @@ export default function ProgramsPage() {
             </article>
             <article className="bg-white rounded-lg shadow-md border border-[#d0d0d0] overflow-hidden hover:shadow-lg transition-shadow">
               <div className="relative">
-                <div className="w-full h-52 bg-[#3b355f]" role="img" aria-label="Model UN & Debate Youth Conference" />
+                <img alt="Model UN & Debate Youth Conference" src="/sites/unescocp/images/model-un-debate-2025.jpg" className="w-full h-52 object-cover" loading="lazy" />
                 <div className="absolute top-4 left-4 text-white text-xs font-bold uppercase tracking-widest px-3 py-1 rounded" style={{ background: "rgb(0, 87, 168)" }}>
                   Featured
                 </div>

@@ -44,8 +44,7 @@ Submissions appear in the Netlify dashboard under Forms; set an email notificati
   home Summer Program photo). That licence covers GoDaddy-hosted sites; replace them with the
   Center's own photos before the domain points to Netlify.
 - On the source site these files returned 404 and were recovered from https://ucp-usa.org:
-  Guy Djoken's portrait, the three partner-university seals, the African Women's Day slide.
-- Still missing on the source, drawn as brand-colour blocks until the originals are supplied:
-  the West African Spring Conference 2025 and Model UN slides (home carousel and `/programs`).
+  Guy Djoken's portrait, the three partner-university seals, and the three event flyers
+  (African Women's Day 2026, West African Spring Conference 2025, Model UN & Debate 2025).
 - The Summer Program gallery shows the 17 photos that resolve; 30 more were listed on the
   source but their files are gone.
