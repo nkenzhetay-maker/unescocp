@@ -1,0 +1,51 @@
+# unescocp.org
+
+Website of the UNESCO Center for Peace, rebuilt from the GoDaddy Airo site at
+https://unescocp.org as a static Next.js app and hosted on Netlify.
+
+Started from [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+(MIT); its cloning workflow lives in `.agents/skills/clone-website/`.
+
+## Commands
+
+```bash
+npm install
+npm run dev      # http://localhost:3000
+npm run check    # lint + typecheck + production build (static export in out/)
+```
+
+## Layout
+
+| Path | What it holds |
+| --- | --- |
+| `src/app/<route>/page.tsx` | One file per page: metadata, JSON-LD and the page sections |
+| `src/components/sites/unescocp/` | Header, footer, home carousel, Summer Program tabs + gallery, Netlify forms |
+| `public/sites/unescocp/` | Logo and every image the pages use |
+| `docs/research/unescocp/` | Source capture: HTML, rendered DOM, screenshots, original CSS |
+
+Routes: `/`, `/about`, `/about-ucp`, `/leadership`, `/programs`, `/summer-program`,
+`/publishing-house`, `/regional-coordinators`, `/news`, `/resources`, `/join-us`, `/contact`.
+
+## Languages
+
+The content is English only. `LanguageSwitcher` (top bar) reads the visitor's device language and,
+when it is not English, sets the `googtrans` cookie and loads Google Translate, so the page is shown
+machine-translated. Choosing "English (original)" clears the cookie; the choice is kept in
+`localStorage` (`ucp-lang`).
+
+## Forms
+
+`/contact` (form `contact`) and `/join-us` (form `membership-application`) are Netlify Forms.
+Submissions appear in the Netlify dashboard under Forms; set an email notification there.
+
+## Images
+
+- `images/stock/` are Getty Images photos from GoDaddy's Airo library (the page hero banners and the
+  home Summer Program photo). That licence covers GoDaddy-hosted sites; replace them with the
+  Center's own photos before the domain points to Netlify.
+- On the source site these files returned 404 and were recovered from https://ucp-usa.org:
+  Guy Djoken's portrait, the three partner-university seals, the African Women's Day slide.
+- Still missing on the source, drawn as brand-colour blocks until the originals are supplied:
+  the West African Spring Conference 2025 and Model UN slides (home carousel and `/programs`).
+- The Summer Program gallery shows the 17 photos that resolve; 30 more were listed on the
+  source but their files are gone.

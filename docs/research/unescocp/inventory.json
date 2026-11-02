@@ -1,0 +1,394 @@
+{
+  "/": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/airo-assets/images/pages/home/hero",
+        "alt": "International diplomats and educators at a global conference",
+        "w": 900,
+        "h": 600
+      },
+      {
+        "src": "https://unescocp.org/assets/images/b074c9ccb7967c479de87de3b70b8dfd.jpg",
+        "alt": "UCP West African Spring Conference 2025",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/ca7b59a0210f3ad8252b53bb714cfc7b.png",
+        "alt": "African Women's Day 2026",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/d12747f699c6407f295e7f3251ced994.jpg",
+        "alt": "Model UN & Debate Youth Conference",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/9b8c123e1754a9ea011f5c031735d448.png",
+        "alt": "President Guy Djorken",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/airo-assets/images/pages/home/summer-program",
+        "alt": "Students at international summer program",
+        "w": 700,
+        "h": 500
+      },
+      {
+        "src": "https://unescocp.org/assets/images/9017189d39fc7e35f05036f430d45df2.png",
+        "alt": "Auburn University",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/7a5e0151683e7bb7ffcd92e3fefb2c67.png",
+        "alt": "Florida International University",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/58629f4aa3b79c6a744c79980b7bc097.jpg",
+        "alt": "Louisiana State University",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 3880
+  },
+  "/about": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/airo-assets/images/pages/about/hero",
+        "alt": "UNESCO international diplomacy and peace",
+        "w": 1400,
+        "h": 500
+      },
+      {
+        "src": "https://unescocp.org/airo-assets/images/pages/regional-coordinators/unesco-building",
+        "alt": "UNESCO headquarters building",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/9017189d39fc7e35f05036f430d45df2.png",
+        "alt": "Auburn University",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/7a5e0151683e7bb7ffcd92e3fefb2c67.png",
+        "alt": "Florida International University",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/58629f4aa3b79c6a744c79980b7bc097.jpg",
+        "alt": "Louisiana State University",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 4058
+  },
+  "/about-ucp": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 3871
+  },
+  "/leadership": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/9b8c123e1754a9ea011f5c031735d448.png",
+        "alt": "President Guy Djoken — President & Executive Director, UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/airo-assets/images/pages/about/ambassador",
+        "alt": "Deputy Director, Ambassador Emmett Imani — Deputy Director & Head of Global Publishing Program, UNESCO Center for Peace",
+        "w": 400,
+        "h": 500
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 3518
+  },
+  "/programs": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/airo-assets/images/pages/programs/hero",
+        "alt": "International conference on peace and education",
+        "w": 1400,
+        "h": 500
+      },
+      {
+        "src": "https://unescocp.org/assets/images/b074c9ccb7967c479de87de3b70b8dfd.jpg",
+        "alt": "UCP West African Spring Conference 2025",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/ca7b59a0210f3ad8252b53bb714cfc7b.png",
+        "alt": "African Women's Day 2026",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/d12747f699c6407f295e7f3251ced994.jpg",
+        "alt": "Model UN & Debate Youth Conference",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 2755
+  },
+  "/summer-program": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 2097
+  },
+  "/publishing-house": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/airo-assets/images/pages/publishing-house/article-author-portrait",
+        "alt": "Ambassador Emmett Imani, Deputy Director of UNESCO Center for Peace, standing before a United Nations flag",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/9b8c123e1754a9ea011f5c031735d448.png",
+        "alt": "President Guy Djorken",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/airo-assets/images/pages/about/ambassador",
+        "alt": "Ambassador Emmett Imani",
+        "w": 400,
+        "h": 500
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 3360
+  },
+  "/regional-coordinators": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/airo-assets/images/pages/regional-coordinators/hero",
+        "alt": "Global network of regional coordinators",
+        "w": 1400,
+        "h": 500
+      },
+      {
+        "src": "https://ucp-usa.org/wp-content/uploads/2024/02/GV5A0648-1024x683.jpg",
+        "alt": "Moussa Kone",
+        "w": 1024,
+        "h": 683
+      },
+      {
+        "src": "https://ucp-usa.org/wp-content/uploads/2026/03/Rosie-1024x1024.jpeg",
+        "alt": "Rosie Chawla",
+        "w": 1024,
+        "h": 1024
+      },
+      {
+        "src": "https://ucp-usa.org/wp-content/uploads/elementor/thumbs/Director-of-Partnerships-rfep41ulnkw8pnl9yvvpbqcvl7bhkho2qnwo9khqiw.png",
+        "alt": "Dr. Therese Fotabong-Binfon",
+        "w": 500,
+        "h": 500
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 4761
+  },
+  "/news": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 2286
+  },
+  "/resources": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 2485
+  },
+  "/join-us": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [],
+    "height": 3593
+  },
+  "/contact": {
+    "imgs": [
+      {
+        "src": "https://unescocp.org/assets/images/6af1d16ff6e3e380016c8fedfa4d35bb.gif",
+        "alt": "Donate",
+        "w": 0,
+        "h": 0
+      },
+      {
+        "src": "https://unescocp.org/assets/images/c3374c56ce017e12896773b5d30be051.png",
+        "alt": "UNESCO Center for Peace",
+        "w": 0,
+        "h": 0
+      }
+    ],
+    "bgs": [],
+    "vids": [
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3103.3!2d-77.4105!3d39.4143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c9c7b1b1b1b1b1%3A0x1!2s129+W+Patrick+St%2C+Frederick%2C+MD+21701!5e0!3m2!1sen!2sus!4v1"
+    ],
+    "height": 2244
+  }
+}
