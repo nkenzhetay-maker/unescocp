@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Lora } from "next/font/google";
+import { CookieBanner } from "@/components/sites/unescocp/cookie-banner";
 import { SiteFooter } from "@/components/sites/unescocp/site-footer";
 import { SiteHeader } from "@/components/sites/unescocp/site-header";
 import "./globals.css";
@@ -31,6 +32,7 @@ export default function RootLayout({
           {children}
           <SiteFooter />
         </div>
+        <CookieBanner />
       </body>
     </html>
   );

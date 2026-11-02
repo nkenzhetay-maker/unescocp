@@ -26,6 +26,14 @@ npm run check    # lint + typecheck + production build (static export in out/)
 Routes: `/`, `/about`, `/about-ucp`, `/leadership`, `/programs`, `/summer-program`,
 `/publishing-house`, `/regional-coordinators`, `/news`, `/resources`, `/join-us`, `/contact`.
 
+## Cookie consent
+
+`CookieBanner` is the source's consent bar: same text, `localStorage` key `c2_analytics_consent`
+(`{ analytics, timestamp }`, shown again after 365 days). The source loaded GoDaddy's own Airo
+analytics behind it; that service belongs to GoDaddy hosting and is not carried over. An analytics
+script added later should load only when the stored `analytics` is true or after a
+`cookie-consent-changed` event with `detail.consented === true`.
+
 ## Forms
 
 `/contact` (form `contact`) and `/join-us` (form `membership-application`) are Netlify Forms.
